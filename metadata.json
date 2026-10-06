@@ -1,0 +1,6 @@
+{
+  "name": "ПВЗ Тренажер WB Point v1.2.0.0 | Эмулятор рабочего места",
+  "description": "Интерактивный симулятор приёмки и выдачи заказов ПВЗ с поддержкой аппаратного сканера штрихкодов, генератором коробок, озвучкой и обучающим онбордингом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
